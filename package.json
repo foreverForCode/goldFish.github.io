@@ -1,6 +1,7 @@
 {
+  "homepage":"",
   "private": true,
-  "name": "dumi_v2",
+  "name": "goldFish",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
